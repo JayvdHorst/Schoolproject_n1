@@ -9,8 +9,8 @@ $client = new \GuzzleHttp\Client(['verify' => false]);
 $url = 'https://radiomanager.pluxbox.com/api/v1/';
 
 //Set your credentials
-$api_key = 'GYojLYk1Lq1OK5yNFayYPM6fa';
-$api_secret = 'n2fmx6HS09eGWfLHTxIFdDlEVdHlE5dyZzwocwSU';
+$api_key = '//';
+$api_secret = '//';
 
 //Create random string
 $chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
